@@ -1,4 +1,4 @@
-# UnoJoy - Modificação para 3 Eixos
+# UnoJoy 3 Eixos + Célula de Carga (Load Cell + HX711) 
 
 Este fork do projeto UnoJoy adapta o firmware original para funcionar exclusivamente com 3 eixos analógicos (Rx, Ry, Rz), ideal para pedais de simulação (acelerador, freio e embreagem).
 
