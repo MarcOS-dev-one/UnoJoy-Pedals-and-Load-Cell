@@ -40,15 +40,16 @@ Todas essas ferramentas são descritas com links e detalhes no projeto original 
 
 Demonstração do joystick sendo reconhecido corretamente como dispositivo HID:
 
-![Teste no Windows](https://github.com/user-attachments/assets/34dbafb9-90d1-4ff6-b7d0-fc40dbbe2602)
+![{B991766D-2B5D-448D-B603-DD83E1C0B9A0}](https://github.com/user-attachments/assets/2f94209f-c370-415c-8666-3c0d94c03941)
 
 Hardware utilizado: 
 
-![Hardware](https://github.com/user-attachments/assets/7e3f47c2-06e3-4b0b-8076-e61610457052)
+![image](https://github.com/user-attachments/assets/54854844-1a2a-4ecb-9374-29954c4d1745)
+
 
 Esquema utilizado: 
 
-![Esquema](https://github.com/user-attachments/assets/585e7073-a269-4dce-9b79-1333568288e0)
+![{9A015F92-6CE8-4FF5-8040-074FB9583A30}](https://github.com/user-attachments/assets/6f47fa68-6ad2-4f87-b896-93669e07b906)
 
 OBS: Para obter uma leitura mais rápida e responsiva do freio, o módulo HX711 pode ser modificado para operar a 80Hz (em vez dos 10Hz padrão). Isso é feito alterando a conexão do pino **RATE** do CI para **VCC** (normalmente ele vem conectado ao GND). Essa modificação é opcional, mas recomendada para simulação, pois reduz a latência da leitura da célula de carga. A modificação pode ser feita como demonstrando nesse vídeo: https://www.youtube.com/watch?v=0cxS-a837bY
 
